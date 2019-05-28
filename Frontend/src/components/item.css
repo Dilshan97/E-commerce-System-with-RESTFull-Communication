@@ -1,0 +1,13 @@
+#card {
+    width: 600px;
+    margin-top:25px;
+    box-align: center;
+    display: flex;
+    position: relative;
+    margin-left: 400px;
+    margin-bottom: 25px;
+}
+
+#item{
+    margin-bottom: 25px;
+}

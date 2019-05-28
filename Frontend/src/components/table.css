@@ -1,0 +1,14 @@
+#card1{
+    width: 900px;
+    margin-top:15px;
+    box-align: center;
+    display: flex;
+    position: relative;
+    margin-left: 250px;
+    margin-bottom: 25px;
+}
+
+#table {
+    width: 800px;
+    margin: 25px;
+}
